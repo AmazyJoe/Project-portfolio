@@ -1,0 +1,27 @@
+.Navbar li {
+  color: white;
+  font-size: x-large;
+}
+.Navbar {
+ padding: 0px;
+ background-color: black;
+ display: flex;
+ align-items: center;
+ justify-items: flex-start;
+ justify-items: center;
+}
+body {
+  background-color: grey;
+  background-image: image(./Images/Images 2);
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    
+}
+.Aspirations{
+ text-align: left;
+
+}
