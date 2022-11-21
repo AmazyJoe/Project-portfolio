@@ -3,25 +3,38 @@
   font-size: x-large;
 }
 .Navbar {
- padding: 0px;
- background-color: black;
- display: flex;
- align-items: center;
- justify-items: flex-start;
- justify-items: center;
+  padding: 0px;
+  background-color: black;
+  opacity: 0.5;
+  text-shadow: 2px 2p;
 }
 body {
   background-color: grey;
-  background-image: image(./Images/Images 2);
+  /* background-image: url(Images/Images\ 2/) */
+  background-position: right bottom, left top;
 }
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
-p{
-    text-align: center;
-    
+p {
+  text-align: center;
 }
-.Aspirations{
- text-align: left;
+.Aspirations {
+  text-align: left;
+}
+p.Aspirations {
+  text-align: left;
+}
+.Contacts {
+  background-color: red;
+  text-shadow: 2px 2px;
+}
+footer {
+  background-color: darkslateblue;
+}
+.Gallery{
 
+}
+.Images{
+  margin-left: 560px;
 }
